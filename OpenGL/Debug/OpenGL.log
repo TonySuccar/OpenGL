@@ -1,0 +1,29 @@
+﻿  Main.cpp
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(308,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(428,89): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(428,89): warning C4244:         with
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(428,89): warning C4244:         [
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(428,89): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(428,89): warning C4244:         ]
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(468,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(483,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(636,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(638,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(642,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(683,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(758,37): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(758,37): warning C4244:         with
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(758,37): warning C4244:         [
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(758,37): warning C4244:             _Rep=__int64
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(758,37): warning C4244:         ]
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(773,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(773,38): warning C4244:         with
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(773,38): warning C4244:         [
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(773,38): warning C4244:             _Rep=__int64
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(773,38): warning C4244:         ]
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(875,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(1059,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(1063,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(1066,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\tonys\source\repos\OpenGL\OpenGL\Main.cpp(1122,21): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\tonys\source\repos\OpenGL\Debug\OpenGL.exe

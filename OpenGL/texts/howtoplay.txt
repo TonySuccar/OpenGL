@@ -1,0 +1,7 @@
+1-Shoot the aliens to increment your score
+2-Dont' let the alien escape
+3-Shoot the heart to get an extra life
+4-Shoot the star to increase your multiplier
+5-Survive 30 secounds to reach the next level
+6-Move the spaceship using the arrow keys
+7-Right click to shoot a laser
